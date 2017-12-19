@@ -7,8 +7,7 @@ const packFile = process.argv[2];
 const packListJsonFile = path.resolve(__dirname, '../list.json');
 
 // 缺省发布使用master进行测试
-const DIST_URL_BASE = 'https://github.com/mmpublic/github_frame3_packages/blob/master/packages/';
-
+const DIST_URL_BASE = 'https://github.com/mmpublic/github_frame3_packages/raw/master/packages';
 
 
 if (!fs.existsSync(packFile)) {
