@@ -4,5 +4,11 @@
     "size": 1686104,
     "url": "https://github.com/mmpublic/github_frame3_packages/raw/master/packages/cn.magicmind.frame3.launcher.pack.1.0.0",
     "hash": "f864b35c8dddf4bd548619315327b82e"
+  },
+  "device-service": {
+    "version": "1.0.3",
+    "size": 377736,
+    "url": "https://github.com/mmpublic/github_frame3_packages/raw/master/packages/device-service.pack.1.0.3",
+    "hash": "6c139efb414a08f481a8d6ce32c78d1f"
   }
 }
