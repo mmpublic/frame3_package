@@ -9,6 +9,12 @@ const packListJsonFile = path.resolve(__dirname, '../list.json');
 // 缺省发布使用master进行测试
 const DIST_URL_BASE = 'https://github.com/mmpublic/github_frame3_packages/raw/master/packages';
 
+if (!packFile) {
+  console.log('Param Error!');
+  console.log('Usage: updatePackageList.js <PackFile>');
+  process.exit(1);
+}
+
 
 if (!fs.existsSync(packFile)) {
   console.log("not found ", packFile);
@@ -40,6 +46,7 @@ const md5 = fsHash.digest('hex');
 
 // 更新列表文件
 packList[packName] = {
+  name: packName,
   version: packVersion,
   size: stat.size,
   url: DIST_URL_BASE + '/' + packFileName,
