@@ -1,9 +1,9 @@
 {
   "cn.magicmind.frame3.launcher": {
     "name": "cn.magicmind.frame3.launcher",
-    "version": "3.0.0",
-    "size": 1686824,
-    "url": "https://github.com/mmpublic/github_frame3_packages/raw/master/packages/cn.magicmind.frame3.launcher.pack.3.0.0",
-    "hash": "b1dfea8184ee206b846f21f996b6890c"
+    "version": "3.0.1",
+    "size": 2674969,
+    "url": "https://github.com/mmpublic/github_frame3_packages/raw/master/packages/cn.magicmind.frame3.launcher.pack.3.0.1",
+    "hash": "67673dc104e7e75fff46538810435341"
   }
 }
