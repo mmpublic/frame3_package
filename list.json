@@ -8,9 +8,9 @@
   },
   "device-service": {
     "name": "device-service",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "size": 447656,
-    "url": "https://github.com/mmpublic/github_frame3_packages/raw/master/packages/device-service.pack.1.0.7",
-    "hash": "dbd47add2b8fd92f334707fc1680b77c"
+    "url": "https://github.com/mmpublic/github_frame3_packages/raw/master/packages/device-service.pack.1.0.8",
+    "hash": "74ee202ef4fbcd5961a3b69910fedcdd"
   }
 }
