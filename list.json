@@ -12,5 +12,12 @@
     "size": 447656,
     "url": "https://github.com/mmpublic/github_frame3_packages/raw/master/packages/device-service.pack.1.0.8",
     "hash": "74ee202ef4fbcd5961a3b69910fedcdd"
+  },
+  "bins.arm64": {
+    "name": "bins.arm64",
+    "version": "1.0.19",
+    "size": 7939353,
+    "url": "https://github.com/mmpublic/github_frame3_packages/raw/master/packages/bins.arm64.pack.1.0.19",
+    "hash": "ad0963a96894151071a273af4a52daac"
   }
 }
