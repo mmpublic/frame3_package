@@ -1,17 +1,17 @@
 {
   "cn.magicmind.frame3.launcher": {
     "name": "cn.magicmind.frame3.launcher",
-    "version": "3.0.2",
+    "version": "3.0.1",
     "size": 2675081,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/cn.magicmind.frame3.launcher.pack.3.0.1",
     "hash": "c12f77316dd93838f6b481d497c4e738"
   },
   "device-service": {
     "name": "device-service",
-    "version": "1.0.29",
-    "size": 449336,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/device-service.pack.1.0.29",
-    "hash": "124c4290e32dc5d48076d9cb9e51b874"
+    "version": "1.0.30",
+    "size": 449384,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/device-service.pack.1.0.30",
+    "hash": "be6deeea816dc2099c2ecb270b2a2a62"
   },
   "bins.arm64": {
     "name": "bins.arm64",
