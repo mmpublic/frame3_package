@@ -15,9 +15,9 @@
   },
   "bins.arm64": {
     "name": "bins.arm64",
-    "version": "1.0.29",
-    "size": 7939497,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.29",
-    "hash": "82d305029727e07bcb9c30ca7dc431a8"
+    "version": "1.0.30",
+    "size": 7939545,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.30",
+    "hash": "decaef3ae571377f311813b17314cbec"
   }
 }
