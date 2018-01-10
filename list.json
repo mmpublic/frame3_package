@@ -2,9 +2,9 @@
   "cn.magicmind.frame3.launcher": {
     "name": "cn.magicmind.frame3.launcher",
     "version": "3.0.7",
-    "size": 2337689,
+    "size": 2337625,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/cn.magicmind.frame3.launcher.pack.3.0.7",
-    "hash": "3c01e1999ac35c0ce5741dffa8568a53"
+    "hash": "4479340eaca13ad97378b7235487f03d"
   },
   "device-service": {
     "name": "device-service",
