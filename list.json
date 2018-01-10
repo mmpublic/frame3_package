@@ -1,10 +1,10 @@
 {
   "cn.magicmind.frame3.launcher": {
     "name": "cn.magicmind.frame3.launcher",
-    "version": "3.0.2",
-    "size": 3017065,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/cn.magicmind.frame3.launcher.pack.3.0.2",
-    "hash": "7ed4d981339041639a8eb98fee7f49bd"
+    "version": "3.0.3",
+    "size": 2337849,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/cn.magicmind.frame3.launcher.pack.3.0.3",
+    "hash": "f77e550d1eadcd7de40125fd147eb0ed"
   },
   "device-service": {
     "name": "device-service",
