@@ -8,10 +8,10 @@
   },
   "device-service": {
     "name": "device-service",
-    "version": "1.0.35",
-    "size": 449512,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/device-service.pack.1.0.35",
-    "hash": "ff885d30271e9061009841f9cc271a8f"
+    "version": "1.0.36",
+    "size": 449560,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/device-service.pack.1.0.36",
+    "hash": "359beebd6de5f43a675f3520208bd0f2"
   },
   "bins.arm64": {
     "name": "bins.arm64",
