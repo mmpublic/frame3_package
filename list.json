@@ -1,10 +1,10 @@
 {
   "frameloader": {
     "name": "frameloader",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "size": 4295,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frameloader.pack.1.0.1",
-    "hash": "0100e0459c1baf1f225c77707383d895"
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frameloader.pack.1.0.3",
+    "hash": "3366da0278523cd91f41f52d64215208"
   },
   "cn.magicmind.frame3.launcher": {
     "name": "cn.magicmind.frame3.launcher",
@@ -19,7 +19,7 @@
     "size": 7939545,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.32",
     "hash": "9735f0031d2124ab48598b2fb5e2cab7"
-  },  
+  },
   "device-service": {
     "name": "device-service",
     "version": "1.0.40",
