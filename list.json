@@ -1,23 +1,23 @@
 {
-  "cn.magicmind.frame3.launcher": {
-    "name": "cn.magicmind.frame3.launcher",
+  "cn.magicmind.frame3": {
+    "name": "cn.magicmind.frame3",
     "version": "3.0.7",
     "size": 2337625,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/cn.magicmind.frame3.launcher.pack.3.0.7",
     "hash": "4479340eaca13ad97378b7235487f03d"
   },
-  "device-service": {
-    "name": "device-service",
-    "version": "1.0.38",
-    "size": 449560,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/device-service.pack.1.0.38",
-    "hash": "75f699f2b109205f015894b6d76f7c09"
-  },
   "bins.arm64": {
     "name": "bins.arm64",
-    "version": "1.0.32",
-    "size": 7939545,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.32",
-    "hash": "9735f0031d2124ab48598b2fb5e2cab7"
+    "version": "1.0.33",
+    "size": 7939497,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.33",
+    "hash": "5c623e79cb6410f5abd1293d644b9a4c"
+  },
+  "device-service": {
+    "name": "device-service",
+    "version": "1.0.41",
+    "size": 448744,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/device-service.pack.1.0.41",
+    "hash": "ab0ab848acc07be60acd9bee210cd3d2"
   }
 }
