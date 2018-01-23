@@ -9,9 +9,9 @@
   "cn.magicmind.frame3": {
     "name": "cn.magicmind.frame3",
     "version": "3.1.2",
-    "size": 2106473,
+    "size": 2106601,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/cn.magicmind.frame3.pack.3.1.2",
-    "hash": "22fef7b42e21ebac8181d482c6528b41"
+    "hash": "352e2025b455f8ffffc39f3ea2f565e1"
   },
   "bins.arm64": {
     "name": "bins.arm64",
