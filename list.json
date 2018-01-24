@@ -20,11 +20,18 @@
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.36",
     "hash": "d9f4f2872b1cfbf391482ec0e2f7bfb8"
   },
-  "device-service": {
-    "name": "device-service",
-    "version": "1.0.42",
-    "size": 448776,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/device-service.pack.1.0.42",
-    "hash": "10417c3dc2bf6671dddf36cf4e905184"
+  "frame-service": {
+    "name": "frame-service",
+    "version": "1.0.56",
+    "size": 449208,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.56",
+    "hash": "62a2d69ad74bbd731669d3ef27506154"
+  },
+  "happ-main": {
+    "name": "happ-main",
+    "version": "1.0.2",
+    "size": 471,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/happ-main.pack.1.0.2",
+    "hash": "e30a479a6747b259d32ffff8711a7ce1"
   }
 }
