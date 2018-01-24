@@ -26,5 +26,12 @@
     "size": 449208,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.56",
     "hash": "62a2d69ad74bbd731669d3ef27506154"
+  },
+  "happ-main": {
+    "name": "happ-main",
+    "version": "1.0.2",
+    "size": 471,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/happ-main.pack.1.0.2",
+    "hash": "e30a479a6747b259d32ffff8711a7ce1"
   }
 }
