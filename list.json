@@ -2,7 +2,7 @@
   "com.google.android.webview": {
     "name": "com.google.android.webview",
     "version": "63.0.3239.111",
-    "size": 49358569,
+    "size": 49358665,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/com.google.android.webview.pack.63.0.3239.111",
     "hash": "97c00e7a537c4f27c84dbdd0f19f8c74"
   },
@@ -15,16 +15,16 @@
   },
   "bins.arm64": {
     "name": "bins.arm64",
-    "version": "1.0.34",
-    "size": 7939497,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.34",
-    "hash": "5823fa93b0101b731b49e2cc80c14251"
+    "version": "1.0.36",
+    "size": 7939561,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.36",
+    "hash": "d9f4f2872b1cfbf391482ec0e2f7bfb8"
   },
   "device-service": {
     "name": "device-service",
     "version": "1.0.42",
-    "size": 448744,
+    "size": 448776,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/device-service.pack.1.0.42",
-    "hash": "affab746e1750a05d97b46d58b1efb7a"
+    "hash": "10417c3dc2bf6671dddf36cf4e905184"
   }
 }
