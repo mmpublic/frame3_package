@@ -22,9 +22,9 @@
   },
   "frame-service": {
     "name": "frame-service",
-    "version": "1.0.53",
-    "size": 449080,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.53",
-    "hash": "586b46bd3ef665bb96f74e00a1926297"
+    "version": "1.0.55",
+    "size": 449208,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.55",
+    "hash": "f8f43457afddf106d2f01030b733d683"
   }
 }
