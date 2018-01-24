@@ -15,10 +15,10 @@
   },
   "bins.arm64": {
     "name": "bins.arm64",
-    "version": "1.0.35",
-    "size": 7939545,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.35",
-    "hash": "6701431a9ecc5c468b473cb20bb5ef7f"
+    "version": "1.0.36",
+    "size": 7939561,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.36",
+    "hash": "d9f4f2872b1cfbf391482ec0e2f7bfb8"
   },
   "device-service": {
     "name": "device-service",
