@@ -26,5 +26,12 @@
     "size": 448776,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/device-service.pack.1.0.42",
     "hash": "10417c3dc2bf6671dddf36cf4e905184"
+  },
+  "frame-service": {
+    "name": "frame-service",
+    "version": "1.0.49",
+    "size": 449064,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.49",
+    "hash": "4fc53cc77bf40b82a28a282e2335da9b"
   }
 }
