@@ -2,9 +2,9 @@
   "com.google.android.webview": {
     "name": "com.google.android.webview",
     "version": "63.0.3239.111",
-    "size": 49358569,
+    "size": 49358665,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/com.google.android.webview.pack.63.0.3239.111",
-    "hash": "0e59859d27a12e7ea8e2e64bb74bd946"
+    "hash": "9e50b933ca5e8e9f538175c387db8b38"
   },
   "cn.magicmind.frame3": {
     "name": "cn.magicmind.frame3",
