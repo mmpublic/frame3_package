@@ -15,16 +15,16 @@
   },
   "bins.arm64": {
     "name": "bins.arm64",
-    "version": "1.0.34",
-    "size": 7939497,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.34",
-    "hash": "5823fa93b0101b731b49e2cc80c14251"
+    "version": "1.0.35",
+    "size": 7939545,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.35",
+    "hash": "6701431a9ecc5c468b473cb20bb5ef7f"
   },
   "device-service": {
     "name": "device-service",
     "version": "1.0.42",
-    "size": 448744,
+    "size": 448776,
     "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/device-service.pack.1.0.42",
-    "hash": "affab746e1750a05d97b46d58b1efb7a"
+    "hash": "10417c3dc2bf6671dddf36cf4e905184"
   }
 }
