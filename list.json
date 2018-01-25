@@ -8,10 +8,10 @@
   },
   "cn.magicmind.frame3": {
     "name": "cn.magicmind.frame3",
-    "version": "3.1.8",
-    "size": 2111129,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/cn.magicmind.frame3.pack.3.1.8",
-    "hash": "538d09f387b2b3f3e00022180e6bebfb"
+    "version": "3.1.9",
+    "size": 2110713,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/cn.magicmind.frame3.pack.3.1.9",
+    "hash": "a15a2b58a5534c6a7586bda822698827"
   },
   "bins.arm64": {
     "name": "bins.arm64",
