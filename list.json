@@ -15,23 +15,23 @@
   },
   "bins.arm64": {
     "name": "bins.arm64",
-    "version": "1.0.36",
+    "version": "1.0.37",
     "size": 7939561,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.36",
-    "hash": "d9f4f2872b1cfbf391482ec0e2f7bfb8"
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/bins.arm64.pack.1.0.37",
+    "hash": "12f54d9e7b69402830a50105e9991f3d"
   },
   "frame-service": {
     "name": "frame-service",
-    "version": "1.0.60",
-    "size": 449208,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.60",
-    "hash": "7bbe341d62ddb4a921d0477a1eee7635"
+    "version": "1.0.64",
+    "size": 449224,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.64",
+    "hash": "984602652c4420123ce3f1a734110c06"
   },
   "happ-main": {
     "name": "happ-main",
-    "version": "1.0.2",
-    "size": 471,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/happ-main.pack.1.0.2",
-    "hash": "e30a479a6747b259d32ffff8711a7ce1"
+    "version": "1.0.3",
+    "size": 503,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/happ-main.pack.1.0.3",
+    "hash": "7a5cda75538a45a81d65d23a28465fbb"
   }
 }
