@@ -22,10 +22,10 @@
   },
   "frame-service": {
     "name": "frame-service",
-    "version": "1.0.59",
+    "version": "1.0.60",
     "size": 449208,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.59",
-    "hash": "a71acffab9aa623a177102e5392105f4"
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.60",
+    "hash": "7bbe341d62ddb4a921d0477a1eee7635"
   },
   "happ-main": {
     "name": "happ-main",
