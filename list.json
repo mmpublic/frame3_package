@@ -22,16 +22,16 @@
   },
   "frame-service": {
     "name": "frame-service",
-    "version": "1.0.5",
-    "size": 8919,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.5",
-    "hash": "b17e3af83b24725d5843e4e29179050e"
+    "version": "1.0.8",
+    "size": 8471,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/frame-service.pack.1.0.8",
+    "hash": "88415741fb1520976b5883176826a33d"
   },
   "happ-main": {
     "name": "happ-main",
-    "version": "1.0.3",
-    "size": 503,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/happ-main.pack.1.0.3",
-    "hash": "7a5cda75538a45a81d65d23a28465fbb"
+    "version": "1.0.5",
+    "size": 195496,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/happ-main.pack.1.0.5",
+    "hash": "1830d7a2c91c27785a994300508bc6db"
   }
 }
