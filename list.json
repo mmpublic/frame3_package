@@ -29,9 +29,9 @@
   },
   "happ-main": {
     "name": "happ-main",
-    "version": "1.0.8",
-    "size": 195448,
-    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/happ-main.pack.1.0.8",
-    "hash": "958d4a8ff1b7e45df7f01c8642e8f431"
+    "version": "1.0.9",
+    "size": 195352,
+    "url": "https://raw.githubusercontent.com/mmpublic/github_frame3_packages/master/packages/happ-main.pack.1.0.9",
+    "hash": "89c16400329d39cbb9474b67a111a375"
   }
 }
